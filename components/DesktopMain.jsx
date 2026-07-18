@@ -92,7 +92,7 @@ export default function DesktopMain() {
         <a data-tip="GitHub" href="https://github.com/CodyAHS02" aria-label="GitHub"><Code2 /></a>
         <a data-tip="LinkedIn" href="https://www.linkedin.com/in/ali-hassan-280878246/" aria-label="LinkedIn"><BriefcaseBusiness /></a>
         <a data-tip="Email" href="mailto:a4ali.hs@gmail.com" aria-label="Email"><Mail /></a>
-        <a data-tip="Resume" href="/resume.pdf" download aria-label="Download resume"><FileText /></a>
+        <a data-tip="Resume" href="/Resume.jpg" download aria-label="Download resume"><FileText /></a>
       </nav>
     </header>
   )
