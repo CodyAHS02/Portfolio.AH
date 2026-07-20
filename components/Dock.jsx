@@ -15,7 +15,7 @@ export default function Footer() {
         <a href="https://www.linkedin.com/in/ali-hassan-280878246/"><BriefcaseBusiness /> LinkedIn</a>
         <a href="mailto:a4ali.hs@gmail.com"><Mail /> Email</a>
       </div>
-      <a className="resume" href="/Resume.jpg" download><Download /> Download resume</a>
+      <a className="resume" href="/Resume.pdf" download><Download /> Download resume</a>
       <div className="footer-status">
         <span><i /> system online</span>
         <span>last updated 2026</span>
